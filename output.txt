@@ -1,0 +1,4 @@
+TC01;Arvore.txt
+TC01;Novo Documento de Texto.txt
+TC02;Arvore.txt
+TC03;Pera.txt
